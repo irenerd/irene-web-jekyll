@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Acá estoy aprendiendo a editar Posts"
 date:   2022-03-30 17:00:36 -0500
 categories: jekyll update
 ---
